@@ -1,4 +1,6 @@
-Sup, I'm creativity. (Male, 18)
+I'm finally back. Now we can all start over.
+
+Sup, I'm creativity. (Male, 19)
 - I want to improve myself in coding and more.
 - I know HTML/CSS as advanced.
 - I'm currently learning:
