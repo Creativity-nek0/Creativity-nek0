@@ -1,12 +1,3 @@
-I'm finally back. Now we can all start over.
-
-Sup, I'm creativity. (Male, 19)
-- I want to improve myself in coding and more.
-- I know HTML/CSS as advanced.
-- I'm currently learning:
-- Javascript(and stuff like vue.js)/Kotlin/Swift and more.
-Want to specialize on Artificial Intelligence and robotics.
-- I want to make my own Humanoid/Android someday.
-- I also want to work on cyber-security and social engineering.
-
-That's all, cya!
+Html/CSS/JS
+C/C++
+little bit of python
