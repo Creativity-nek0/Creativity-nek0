@@ -1,5 +1,5 @@
-Html/CSS/JS
+C/C++/C# 
 
-C/C++
+Data Science and AI Engineering with Python
 
-little bit of python
+Nowadays working on Linux too
